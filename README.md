@@ -13,4 +13,3 @@ A 2D fish survival game — 1st Semester C++ & SFML Project
 ## ⚙️ How to Compile & Run
 g++ main.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system -std=c++17
 
-Place arial.ttf in the same folder as the executable before running.
